@@ -7,4 +7,9 @@ A set of PDF / md File `gdrive` links consisting of "shorts" or summarised versi
   - fitting of simple linear regression
   - normal equations
   - pearson's correlation co-efficient
-- 
+- **Chapman-Kolmogorov Equation**
+  - equation
+- **Ornstein-Uhlenbeck Process**
+  - equation
+  - mean reverting property
+  - other properties
